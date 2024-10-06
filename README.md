@@ -10,4 +10,4 @@
 |Lab6|6|
 
 > [!WARNING]
-> As thoses labs has been made through Cyberlearn we only have the readme file for the two first labs.
+> As these labs were created on Cyberlearn, we only have the readme file of the first labs.
